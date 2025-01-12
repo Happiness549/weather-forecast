@@ -3,4 +3,4 @@ function search(event){
     alert("Searching");
 }
 let searchForm = document.querySelector("#search-form");
-searchForm.addEventListener("submit", serach);
+searchForm.addEventListener("submit", search);
